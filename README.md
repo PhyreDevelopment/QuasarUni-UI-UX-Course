@@ -62,7 +62,8 @@ This course is designed for scripters and developers who want to build cleaner, 
 
 ## 🛠️ Tools You’ll Use
 - Pen & paper or digital sketch tools
-- Figma (free version)
+- MockFlow (Free version)
+- Figma (Free version)
 - Notion or Google Docs
 - Browser dev tools (for grid/layout inspection)
 
