@@ -1,0 +1,110 @@
+# 📘 Study Material – UI/UX Course for FiveM (Session 1)
+
+---
+
+## 🧭 Module: Foundations of UI/UX in FiveM
+
+### 🎯 Learning Objectives
+By the end of this session, students should be able to:
+- Understand the difference between UI and UX
+- Recognize the importance of clean interfaces in FiveM
+- Apply the basics of visual hierarchy and grid systems to game UI
+- Analyze examples of good vs. poor UI
+
+---
+
+## 🔍 1. Introduction to UI/UX
+
+### 🧩 What is UI?
+- **User Interface (UI)** refers to everything the user sees on the screen: buttons, text, icons, layouts.
+- In FiveM: job menus, phone apps, inventories, shops.
+
+### 🧠 What is UX?
+- **User Experience (UX)** involves how the player feels when interacting with the UI — is it smooth, clear, and intuitive?
+
+### 🎮 Game Context
+- UI = how things look.
+- UX = how things feel.
+- Good UX = more immersion, fewer complaints.
+
+---
+
+## 🧠 2. Why UI/UX Matters in Game Servers
+
+### 🚀 First Impressions Matter
+- A clean UI shows professionalism.
+- Increases player trust and retention.
+
+### 🤯 Bad UI Leads to Confusion
+- Example: menus with no labels, overlapping elements, small font.
+- Can cause frustration and server dropouts.
+
+### 🛠️ Analogy
+> Using a bad UI is like using an ATM with no labels — just guessing what buttons to press.
+
+---
+
+## 🎯 3. Visual Hierarchy
+
+### 📐 Definition:
+The arrangement of elements to show their order of importance.
+
+### 👁️ How Users Scan Screens
+- **Z-pattern** (used for simpler UIs like websites)
+- **F-pattern** (used in feeds or menus)
+
+### 📊 Visual Tools to Create Hierarchy
+- Size
+- Color
+- Contrast
+- Placement
+- Grouping
+
+### 📝 Activity:
+Identify the most important action in a sample menu. Is it clear?
+
+---
+
+## 🧱 4. Grid Systems
+
+### 🔧 What is a Grid System?
+- A framework of **columns, rows, gutters**, and **margins**.
+- Keeps elements aligned and consistent.
+
+### 📏 Why It Matters:
+- Avoids “floating” or misaligned buttons.
+- Helps with responsiveness and scaling.
+
+### 💡 Common Standard:
+- **12-column grid** – flexible, widely adopted in web/UI design.
+
+---
+
+## 💼 5. Practical Examples
+
+| Case | Bad UI Example | Good UI Example |
+|------|----------------|-----------------|
+| Inventory Menu | Overcrowded, small icons, no grouping | Grouped sections, consistent spacing |
+| ATM Screen | No labels, mismatched buttons | Clear labels, visual feedback on click |
+
+---
+
+## 📝 Homework Assignment
+
+1. Choose a FiveM interface you use (e.g., job menu, tablet).
+2. Write down:
+   - What is **confusing**?
+   - What is **clear**?
+   - Suggest **one improvement**.
+3. (Optional) Try sketching the layout using a 12-column grid.
+
+---
+
+## 🧭 Coming Up in Session 2
+> **User Research & Personas**
+> Learn how to gather feedback from players and turn insights into design decisions.
+
+---
+
+**Course Reminder:**  
+You don’t need to be a designer to build great UI. With structure, logic, and empathy — anyone can create something clean and useful.
